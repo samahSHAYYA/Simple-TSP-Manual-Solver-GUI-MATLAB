@@ -14,7 +14,8 @@ encourages learners to develop heuristic approaches to tackle it.
 
 2. For educational purposes, try creating another GUI from scratch using MATLAB.
    Use this GUI as a reference, noting its imperfections and incompleteness.
-   Aim to enhance its functionalities and adhere to best practices.
+   Aim to enhance its functionalities and adhere to best practices. **For
+   inspiration, see SampleGUI.mp4 video.**
 
 3. Explore heuristics and devise a method to compare them against brute force
    solutions. Note that brute force becomes impractical beyond 8 points due to
