@@ -21,5 +21,14 @@ encourages learners to develop heuristic approaches to tackle it.
    solutions. Note that brute force becomes impractical beyond 8 points due to
    computational expenses.
 
-Feel free to explore and experiment with different strategies to solve TSPs
-efficiently!
+4. Instead of saving data into file, start thinking of how would you use a
+   structured database such as MySQL to store TSPs. You can find in
+   **mysql-scripts** folder a sample SQL script to create a database with
+   few tables, constraints, procedures and triggers.
+
+5. As a final step, in a production environment, you could use **Python**,
+   **Django**, and **Django REST** to develop a wwb based solution. Also,
+   you could choose to use non-structured databases such as MongoDB to store
+   TSPs. In this aspect, we will be providing some basic solutions that can
+   start with and then learn on your own.
+
